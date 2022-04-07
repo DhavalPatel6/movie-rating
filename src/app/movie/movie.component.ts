@@ -20,13 +20,13 @@ export class MovieComponent implements OnInit {
     this.type = this._route.snapshot.params['type'];
     this.id = this._route.snapshot.params['id'];
     if (this.type === 'trending') {
-      this.url = 'http://localhost:4200/assets/data/trending-movies.json';
+      this.url = '../../assets/data/trending-movies.json';
     }
     if (this.type === 'theatre') {
-      this.url = 'http://localhost:4200/assets/data/theatre-movies.json';
+      this.url = '../../assets/data/theatre-movies.json';
     }
     if (this.type === 'popular') {
-      this.url = 'http://localhost:4200/assets/data/popular-movies.json';
+      this.url = '../../assets/data/popular-movies.json';
     }
     this.getMovie();
   }

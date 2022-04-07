@@ -21,19 +21,19 @@ export class HomeComponent implements OnInit {
 
   }
   getTrendingMovies(){
-    this._http.get('http://localhost:4200/assets/data/trending-movies.json').subscribe((movies)=>{
+    this._http.get('../../assets/data/trending-movies.json').subscribe((movies)=>{
       this.trendingMovies = movies;
       console.log(this.trendingMovies);
     })
   }
   getTheatreMovies(){
-    this._http.get('http://localhost:4200/assets/data/theatre-movies.json').subscribe((movies)=>{
+    this._http.get('../../assets/data/theatre-movies.json').subscribe((movies)=>{
       this.theatreMovies = movies;
       console.log(this.theatreMovies);
     })
   }
   getPopularMovies(){
-    this._http.get('http://localhost:4200/assets/data/popular-movies.json').subscribe((movies)=>{
+    this._http.get('../../assets/data/popular-movies.json').subscribe((movies)=>{
       this.popularMovies = movies;
       console.log(this.popularMovies);
     })
