@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Router } from '@angular/router';
 
-declare var VANTA: any;
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -19,9 +18,7 @@ export class HomeComponent implements OnInit {
     this.getTrendingMovies();
     this.getTheatreMovies();
     this.getPopularMovies();
-    VANTA.BIRDS({
-      el: "#main"
-    })
+
   }
   getTrendingMovies(){
     this._http.get('http://localhost:4200/assets/data/trending-movies.json').subscribe((movies)=>{
