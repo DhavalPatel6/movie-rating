@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11,
+    "name": "Venom",
+    "cover": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2018%2F02%2Fvenom-dom-vnm_online_1sht_tsr_rd3dimax_01_rgb-2000.jpg",
+    "rating": 2.15,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Addam's Family 2",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNzQ5NzJjMDgtNzhjMC00NTQ2LTgzOTUtZThiMWMwYmYwMGYxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 1.85,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Avengers: Endgame",
+    "cover": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/d1pklzbuyaab0la-1552597012.jpg",
+    "rating": 3.25,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Free Guy",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOTY2NzFjODctOWUzMC00MGZhLTlhNjMtM2Y2ODBiNGY1ZWRiXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+    "rating": 4.15,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Spider Man: No Way Home",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "rating": 3.45,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Shang-chi: Legend of ten rings",
+    "cover": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 3.85,
+    "reviews": [
+    ]
+  }
+]

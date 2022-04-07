@@ -1,0 +1,56 @@
+[
+  {
+    "id": 17,
+    "name": "RRR",
+    "cover": "https://pbs.twimg.com/media/E6zouuQVkAQhVLC.jpg:large",
+    "rating": 3.45,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Morbius",
+    "cover": "https://i.pinimg.com/originals/8b/06/18/8b0618e0238579cecaa9889ac8ac42e7.jpg",
+    "rating": 2.53,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Attack",
+    "cover": "https://pbs.twimg.com/media/FM8BUXWVkAAcq41.jpg",
+    "rating": 3.12,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 20,
+    "name": "The Kashmir Files",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZjI0YmMzNDctZGFkZi00NmIyLTk5NWEtMTU1MGRmMDQwNWU2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+    "rating": 4.45,
+    "reviews": [
+      {
+        "author": "Albus Dumbledore",
+        "published_on": "2021-10-13 11:27:39",
+        "review": "Awesome movie!",
+        "rating": 4.5
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "The Batman",
+    "cover": "https://m.media-amazon.com/images/M/MV5BOGE2NWUwMDItMjA4Yi00N2Y3LWJjMzEtMDJjZTMzZTdlZGE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    "rating": 4.12,
+    "reviews": [
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Uncharted",
+    "cover": "https://static3.srcdn.com/wordpress/wp-content/uploads/2022/02/Tom-Holland-as-Nathan-Drake-in-Uncharted-movie-poster.jpg?q=50&fit=crop&w=740&h=925&dpr=1.5",
+    "rating": 4.95,
+    "reviews": [
+    ]
+  }
+]
